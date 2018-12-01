@@ -1,0 +1,30 @@
+bot : "Fucking Tabchi is online"
+help : "Tabchi Help list :\n
+1-> Bot : Show Bot on or off\n
+2-> (contacts|links|groups|timelimit) (on|off) : On Or Off (Contact|link) Saver\n
+3-> info : Show Bot info\n
+4-> recent (links|contacts) : Show recent (links|contacts)\n
+4-> fwd (gps|pvs|all) : forward to (gps|pvs|all)\n
+5-> snd (gps|pvs|all) : send to (gps|pvs|all)\n
+6-> setgpslimit (Number) : Set Group Join Limit to Number\n
+7-> reload : Reload Bot\n
+8-> reload gps : Reload Group Bots Number\n
+9-> sleep (Number) : Sleep Bot for Number Seconds\n
+10-> setgpstime (Number) : Set group join time to Number seconds\n
+11-> (block|unblock) pvs : Block Or UnBlock All private Chats\n
+12-> leave gps : Leave from all SGroups\n
+13-> AddAll : Addall contacts"
+info : "Tabchi Info :\n
+Save Contact : {}\n
+Join Groups : {}\n
+Save Links : {}\n
+Time Limit Join : {}\n
+Group Join Time : {}\n
+Group Limit Join : {}\n
+Group Links : {}\n
+Groups : {}\n
+Contacts : {}"
+on/off : "`{}` has been turned `{}`"
+limitgps : "Group Limit Join Set to : {}"
+sleep : "Bot Sleep for {} Seconds"
+gpstime : "Group Join time Set to {}"
